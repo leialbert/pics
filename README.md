@@ -1,2 +1,2 @@
 # pics
-All Pics
+All Pics for My Blog.
